@@ -1,0 +1,87 @@
+name: Update LeetCode Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "*/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate PROBLEMS.md
+        shell: bash
+        run: |
+          {
+            echo "# LeetCode Problems"
+            echo
+            echo "> Complete index of accepted LeetCode solutions."
+            echo
+            count=$(find . -mindepth 1 -maxdepth 1 -type d ! -name .git ! -name .github | wc -l)
+            echo "**Total solved:** $count"
+            echo
+            echo "| # | Problem | # | Problem | # | Problem |"
+            echo "|---:|---|---:|---|---:|---|"
+
+            find . -mindepth 1 -maxdepth 1 -type d ! -name .git ! -name .github \
+              -printf '%f\n' |
+              sort -V |
+              awk '
+              {
+                id = $1
+                $1 = ""
+                sub(/^ /, "")
+                title = $0
+
+                gsub(/\|/, "\\|", title)
+
+                n++
+                num[n] = id
+                name[n] = title
+                path[n] = $0
+              }
+              END {
+                rows = int((n + 2) / 3)
+
+                for (i = 1; i <= rows; i++) {
+                  printf "|"
+
+                  for (j = 0; j < 3; j++) {
+                    k = i + j * rows
+
+                    if (k <= n) {
+                      printf " %s | [%s](./%s) |", num[k], name[k], path[k]
+                    } else {
+                      printf " | |"
+                    }
+                  }
+
+                  printf "\n"
+                }
+              }'
+          } > PROBLEMS.md
+
+      - name: Commit updated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add PROBLEMS.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to PROBLEMS.md"
+            exit 0
+          fi
+
+          git commit -m "docs: update LeetCode problem index"
+          git push
+
