@@ -2,13 +2,13 @@
 
 > My accepted LeetCode solutions, automatically synced to GitHub.
 
-### 📊 Progress
+### ð Progress
 
 | Metric | Count |
 |:--|--:|
 | Problems Solved | **483** |
 
-### 🧩 Problems
+### ð§© Problems
 
 <table>
 <tr><th>#</th><th>Problem</th><th>#</th><th>Problem</th><th>#</th><th>Problem</th></tr>
@@ -174,3 +174,31 @@
 <tr><td>234</td><td><a href="./234 Palindrome Linked List">Palindrome Linked List</a></td><td>1545</td><td><a href="./1545 Find Kth Bit in Nth Binary String">Find Kth Bit in Nth Binary String</a></td><td>3947</td><td><a href="./3947 Maximum Number of Items From Sale II">Maximum Number of Items From Sale II</a></td></tr>
 <tr><td>236</td><td><a href="./236 Lowest Common Ancestor of a Binary Tree">Lowest Common Ancestor of a Binary Tree</a></td><td>1563</td><td><a href="./1563 Stone Game V">Stone Game V</a></td><td>3948</td><td><a href="./3948 Lexicographically Maximum MEX Array">Lexicographically Maximum MEX Array</a></td></tr>
 </table>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+## String
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+## Binary Search
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+<!---LeetCode Topics End-->
