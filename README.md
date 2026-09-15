@@ -2,13 +2,13 @@
 
 > My accepted LeetCode solutions, automatically synced to GitHub.
 
-### ð Progress
+### Ã°ÂÂÂ Progress
 
 | Metric | Count |
 |:--|--:|
 | Problems Solved | **483** |
 
-### ð§© Problems
+### Ã°ÂÂ§Â© Problems
 
 <table>
 <tr><th>#</th><th>Problem</th><th>#</th><th>Problem</th><th>#</th><th>Problem</th></tr>
@@ -201,4 +201,12 @@
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/abhaypratap08/LeetCode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/abhaypratap08/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
