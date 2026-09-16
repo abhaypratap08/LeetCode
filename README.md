@@ -2,13 +2,13 @@
 
 > My accepted LeetCode solutions, automatically synced to GitHub.
 
-### Ã°ÂÂÂ Progress
+### ÃÂ°ÃÂÃÂÃÂ Progress
 
 | Metric | Count |
 |:--|--:|
 | Problems Solved | **483** |
 
-### Ã°ÂÂ§Â© Problems
+### ÃÂ°ÃÂÃÂ§ÃÂ© Problems
 
 <table>
 <tr><th>#</th><th>Problem</th><th>#</th><th>Problem</th><th>#</th><th>Problem</th></tr>
@@ -205,8 +205,21 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abhaypratap08/LeetCode/tree/master/0338-counting-bits) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhaypratap08/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abhaypratap08/LeetCode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhaypratap08/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhaypratap08/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhaypratap08/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
