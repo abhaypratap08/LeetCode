@@ -2,13 +2,13 @@
 
 > My accepted LeetCode solutions, automatically synced to GitHub.
 
-### ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ Progress
+### ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Progress
 
 | Metric | Count |
 |:--|--:|
 | Problems Solved | **483** |
 
-### ÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂ© Problems
+### ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ© Problems
 
 <table>
 <tr><th>#</th><th>Problem</th><th>#</th><th>Problem</th><th>#</th><th>Problem</th></tr>
@@ -180,6 +180,7 @@
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/abhaypratap08/LeetCode/tree/master/0494-target-sum) |
 | [1397-search-suggestions-system](https://github.com/abhaypratap08/LeetCode/tree/master/1397-search-suggestions-system) |
 ## String
 |  |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abhaypratap08/LeetCode/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/abhaypratap08/LeetCode/tree/master/0494-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhaypratap08/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
 |  |
@@ -222,4 +224,16 @@
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhaypratap08/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abhaypratap08/LeetCode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abhaypratap08/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abhaypratap08/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
