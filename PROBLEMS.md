@@ -2,123 +2,124 @@
 
 > Complete index of accepted LeetCode solutions.
 
-**Total solved:** 491
+**Total solved:** 492
 
 | # | Problem | # | Problem | # | Problem |
 |---:|---|---:|---|---:|---|
-| 1 | [Two Sum](./Two Sum) | 240 | [Search a 2D Matrix II](./Search a 2D Matrix II) | 1573-find-two-non-overlapping-sub-arrays-each-with-target-sum | [](./) |
-| 2 | [Add Two Numbers](./Add Two Numbers) | 0242-valid-anagram | [](./) | 1582 | [Special Positions in a Binary Matrix](./Special Positions in a Binary Matrix) |
-| 3 | [Longest Substring Without Repeating Characters](./Longest Substring Without Repeating Characters) | 258 | [Add Digits](./Add Digits) | 1590 | [Make Sum Divisible by P](./Make Sum Divisible by P) |
-| 4 | [Median of Two Sorted Arrays](./Median of Two Sorted Arrays) | 260 | [Single Number III](./Single Number III) | 1625 | [Lexicographically Smallest String After Applying Operations](./Lexicographically Smallest String After Applying Operations) |
-| 5 | [Longest Palindromic Substring](./Longest Palindromic Substring) | 262 | [Trips and Users](./Trips and Users) | 1641 | [Count Sorted Vowel Strings](./Count Sorted Vowel Strings) |
-| 6 | [Zigzag Conversion](./Zigzag Conversion) | 268 | [Missing Number](./Missing Number) | 1644-maximum-number-of-non-overlapping-substrings | [](./) |
-| 7 | [Reverse Integer](./Reverse Integer) | 274 | [H-Index](./H-Index) | 1647 | [Minimum Deletions to Make Character Frequencies Unique](./Minimum Deletions to Make Character Frequencies Unique) |
-| 8 | [String to Integer (atoi)](./String to Integer (atoi)) | 283 | [Move Zeroes](./Move Zeroes) | 1653 | [Minimum Deletions to Make String Balanced](./Minimum Deletions to Make String Balanced) |
-| 9 | [Palindrome Number](./Palindrome Number) | 287 | [Find the Duplicate Number](./Find the Duplicate Number) | 1665 | [Minimum Initial Energy to Finish Tasks](./Minimum Initial Energy to Finish Tasks) |
-| 10 | [Regular Expression Matching](./Regular Expression Matching) | 300 | [Longest Increasing Subsequence](./Longest Increasing Subsequence) | 1679 | [Max Number of K-Sum Pairs](./Max Number of K-Sum Pairs) |
-| 11 | [Container With Most Water](./Container With Most Water) | 303 | [Range Sum Query - Immutable](./Range Sum Query - Immutable) | 1680 | [Concatenation of Consecutive Binary Numbers](./Concatenation of Consecutive Binary Numbers) |
-| 12 | [Integer to Roman](./Integer to Roman) | 310 | [Minimum Height Trees](./Minimum Height Trees) | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./Partitioning Into Minimum Number Of Deci-Binary Numbers) |
-| 13 | [Roman to Integer](./Roman to Integer) | 315 | [Count of Smaller Numbers After Self](./Count of Smaller Numbers After Self) | 1722 | [Minimize Hamming Distance After Swap Operations](./Minimize Hamming Distance After Swap Operations) |
-| 14 | [Longest Common Prefix](./Longest Common Prefix) | 316 | [Remove Duplicate Letters](./Remove Duplicate Letters) | 1725-number-of-sets-of-k-non-overlapping-line-segments | [](./) |
-| 15 | [3Sum](./3Sum) | 322 | [Coin Change](./Coin Change) | 1732 | [Find the Highest Altitude](./Find the Highest Altitude) |
-| 17 | [Letter Combinations of a Phone Number](./Letter Combinations of a Phone Number) | 324 | [Wiggle Sort II](./Wiggle Sort II) | 1758 | [Minimum Changes To Make Alternating Binary String](./Minimum Changes To Make Alternating Binary String) |
-| 18 | [4Sum](./4Sum) | 326 | [Power of Three](./Power of Three) | 1768 | [Merge Strings Alternately](./Merge Strings Alternately) |
-| 19 | [Remove Nth Node From End of List](./Remove Nth Node From End of List) | 327 | [Count of Range Sum](./Count of Range Sum) | 1784 | [Check if Binary String Has at Most One Segment of Ones](./Check if Binary String Has at Most One Segment of Ones) |
-| 20 | [Valid Parentheses](./Valid Parentheses) | 328 | [Odd Even Linked List](./Odd Even Linked List) | 1833 | [Maximum Ice Cream Bars](./Maximum Ice Cream Bars) |
-| 21 | [Merge Two Sorted Lists](./Merge Two Sorted Lists) | 331 | [Verify Preorder Serialization of a Binary Tree](./Verify Preorder Serialization of a Binary Tree) | 1871 | [Jump Game VII](./Jump Game VII) |
-| 22 | [Generate Parentheses](./Generate Parentheses) | 332 | [Reconstruct Itinerary](./Reconstruct Itinerary) | 1877 | [Minimize Maximum Pair Sum in Array](./Minimize Maximum Pair Sum in Array) |
-| 23 | [Merge k Sorted Lists](./Merge k Sorted Lists) | 334 | [Increasing Triplet Subsequence](./Increasing Triplet Subsequence) | 1895 | [Largest Magic Square](./Largest Magic Square) |
-| 24 | [Swap Nodes in Pairs](./Swap Nodes in Pairs) | 0338-counting-bits | [](./) | 1923 | [Longest Common Subpath](./Longest Common Subpath) |
-| 25 | [Reverse Nodes in k-Group](./Reverse Nodes in k-Group) | 341 | [Flatten Nested List Iterator](./Flatten Nested List Iterator) | 1929 | [Concatenation of Array](./Concatenation of Array) |
-| 26 | [Remove Duplicates from Sorted Array](./Remove Duplicates from Sorted Array) | 345 | [Reverse Vowels of a String](./Reverse Vowels of a String) | 1969 | [Minimum Non-Zero Product of the Array Elements](./Minimum Non-Zero Product of the Array Elements) |
-| 27 | [Remove Element](./Remove Element) | 347 | [Top K Frequent Elements](./Top K Frequent Elements) | 1977 | [Number of Ways to Separate Numbers](./Number of Ways to Separate Numbers) |
-| 28 | [Find the Index of the First Occurrence in a String](./Find the Index of the First Occurrence in a String) | 367 | [Valid Perfect Square](./Valid Perfect Square) | 1982 | [Find Array Given Subset Sums](./Find Array Given Subset Sums) |
-| 29 | [Divide Two Integers](./Divide Two Integers) | 372 | [Super Pow](./Super Pow) | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Minimum Difference Between Highest and Lowest of K Scores) |
-| 30 | [Substring with Concatenation of All Words](./Substring with Concatenation of All Words) | 387 | [First Unique Character in a String](./First Unique Character in a String) | 1996 | [The Number of Weak Characters in the Game](./The Number of Weak Characters in the Game) |
-| 31 | [Next Permutation](./Next Permutation) | 390 | [Elimination Game](./Elimination Game) | 2019 | [The Score of Students Solving Math Expression](./The Score of Students Solving Math Expression) |
-| 32 | [Longest Valid Parentheses](./Longest Valid Parentheses) | 392 | [Is Subsequence](./Is Subsequence) | 2029 | [Stone Game IX](./Stone Game IX) |
-| 33 | [Search in Rotated Sorted Array](./Search in Rotated Sorted Array) | 394 | [Decode String](./Decode String) | 2034 | [Stock Price Fluctuation](./Stock Price Fluctuation) |
-| 34 | [Find First and Last Position of Element in Sorted Array](./Find First and Last Position of Element in Sorted Array) | 401 | [Binary Watch](./Binary Watch) | 2049 | [Count Nodes With the Highest Score](./Count Nodes With the Highest Score) |
-| 35 | [Search Insert Position](./Search Insert Position) | 404 | [Sum of Left Leaves](./Sum of Left Leaves) | 2069 | [Walking Robot Simulation II](./Walking Robot Simulation II) |
-| 36 | [Valid Sudoku](./Valid Sudoku) | 416 | [Partition Equal Subset Sum](./Partition Equal Subset Sum) | 2091 | [Removing Minimum and Maximum From Array](./Removing Minimum and Maximum From Array) |
-| 37 | [Sudoku Solver](./Sudoku Solver) | 427 | [Construct Quad Tree](./Construct Quad Tree) | 2095 | [Delete the Middle Node of a Linked List](./Delete the Middle Node of a Linked List) |
-| 38 | [Count and Say](./Count and Say) | 429 | [N-ary Tree Level Order Traversal](./N-ary Tree Level Order Traversal) | 2097 | [Valid Arrangement of Pairs](./Valid Arrangement of Pairs) |
-| 39 | [Combination Sum](./Combination Sum) | 434 | [Number of Segments in a String](./Number of Segments in a String) | 2130 | [Maximum Twin Sum of a Linked List](./Maximum Twin Sum of a Linked List) |
-| 41 | [First Missing Positive](./First Missing Positive) | 435 | [Non-overlapping Intervals](./Non-overlapping Intervals) | 2133 | [Check if Every Row and Column Contains All Numbers](./Check if Every Row and Column Contains All Numbers) |
-| 42 | [Trapping Rain Water](./Trapping Rain Water) | 437 | [Path Sum III](./Path Sum III) | 2140 | [Solving Questions With Brainpower](./Solving Questions With Brainpower) |
-| 43 | [Multiply Strings](./Multiply Strings) | 438 | [Find All Anagrams in a String](./Find All Anagrams in a String) | 2144 | [Minimum Cost of Buying Candies With Discount](./Minimum Cost of Buying Candies With Discount) |
-| 44 | [Wildcard Matching](./Wildcard Matching) | 443 | [String Compression](./String Compression) | 2149 | [Rearrange Array Elements by Sign](./Rearrange Array Elements by Sign) |
-| 45 | [Jump Game II](./Jump Game II) | 450 | [Delete Node in a BST](./Delete Node in a BST) | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./Minimum Sum of Four Digit Number After Splitting Digits) |
-| 46 | [Permutations](./Permutations) | 452 | [Minimum Number of Arrows to Burst Balloons](./Minimum Number of Arrows to Burst Balloons) | 2161 | [Partition Array According to Given Pivot](./Partition Array According to Given Pivot) |
-| 47 | [Permutations II](./Permutations II) | 485 | [Max Consecutive Ones](./Max Consecutive Ones) | 2196 | [Create Binary Tree From Descriptions](./Create Binary Tree From Descriptions) |
-| 48 | [Rotate Image](./Rotate Image) | 486 | [Predict the Winner](./Predict the Winner) | 2208 | [Minimum Operations to Halve Array Sum](./Minimum Operations to Halve Array Sum) |
-| 49 | [Group Anagrams](./Group Anagrams) | 0494-target-sum | [](./) | 2213 | [Longest Substring of One Repeating Character](./Longest Substring of One Repeating Character) |
-| 50 | [Pow(x, n)](./Pow(x, n)) | 496 | [Next Greater Element I](./Next Greater Element I) | 2215 | [Find the Difference of Two Arrays](./Find the Difference of Two Arrays) |
-| 51 | [N-Queens](./N-Queens) | 503 | [Next Greater Element II](./Next Greater Element II) | 2223 | [Sum of Scores of Built Strings](./Sum of Scores of Built Strings) |
-| 52 | [N-Queens II](./N-Queens II) | 509 | [Fibonacci Number](./Fibonacci Number) | 2225 | [Find Players With Zero or One Losses](./Find Players With Zero or One Losses) |
-| 53 | [Maximum Subarray](./Maximum Subarray) | 543 | [Diameter of Binary Tree](./Diameter of Binary Tree) | 2265 | [Count Nodes Equal to Average of Subtree](./Count Nodes Equal to Average of Subtree) |
-| 54 | [Spiral Matrix](./Spiral Matrix) | 547 | [Number of Provinces](./Number of Provinces) | 2315 | [Count Asterisks](./Count Asterisks) |
-| 55 | [Jump Game](./Jump Game) | 556 | [Next Greater Element III](./Next Greater Element III) | 2336 | [Smallest Number in Infinite Set](./Smallest Number in Infinite Set) |
-| 56 | [Merge Intervals](./Merge Intervals) | 560 | [Subarray Sum Equals K](./Subarray Sum Equals K) | 2352 | [Equal Row and Column Pairs](./Equal Row and Column Pairs) |
-| 57 | [Insert Interval](./Insert Interval) | 561 | [Array Partition](./Array Partition) | 2404 | [Most Frequent Even Element](./Most Frequent Even Element) |
-| 58 | [Length of Last Word](./Length of Last Word) | 567 | [Permutation in String](./Permutation in String) | 2446 | [Determine if Two Events Have Conflict](./Determine if Two Events Have Conflict) |
-| 59 | [Spiral Matrix II](./Spiral Matrix II) | 584 | [Find Customer Referee](./Find Customer Referee) | 2457 | [Minimum Addition to Make Integer Beautiful](./Minimum Addition to Make Integer Beautiful) |
-| 60 | [Permutation Sequence](./Permutation Sequence) | 585 | [Investments in 2016](./Investments in 2016) | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./Maximum Sum of Distinct Subarrays With Length K) |
-| 61 | [Rotate List](./Rotate List) | 586 | [Customer Placing the Largest Number of Orders](./Customer Placing the Largest Number of Orders) | 2498 | [Frog Jump II](./Frog Jump II) |
-| 62 | [Unique Paths](./Unique Paths) | 589 | [N-ary Tree Preorder Traversal](./N-ary Tree Preorder Traversal) | 2512 | [Reward Top K Students](./Reward Top K Students) |
-| 63 | [Unique Paths II](./Unique Paths II) | 590 | [N-ary Tree Postorder Traversal](./N-ary Tree Postorder Traversal) | 2513 | [Minimize the Maximum of Two Arrays](./Minimize the Maximum of Two Arrays) |
-| 64 | [Minimum Path Sum](./Minimum Path Sum) | 596 | [Classes With at Least 5 Students](./Classes With at Least 5 Students) | 2544 | [Alternating Digit Sum](./Alternating Digit Sum) |
-| 67 | [Add Binary](./Add Binary) | 601 | [Human Traffic of Stadium](./Human Traffic of Stadium) | 2550 | [Count Collisions of Monkeys on a Polygon](./Count Collisions of Monkeys on a Polygon) |
-| 69 | [Sqrt(x)](./Sqrt(x)) | 605 | [Can Place Flowers](./Can Place Flowers) | 2551 | [Put Marbles in Bags](./Put Marbles in Bags) |
-| 70 | [Climbing Stairs](./Climbing Stairs) | 608 | [Tree Node](./Tree Node) | 2553 | [Separate the Digits in an Array](./Separate the Digits in an Array) |
-| 71 | [Simplify Path](./Simplify Path) | 611 | [Valid Triangle Number](./Valid Triangle Number) | 2574 | [Left and Right Sum Differences](./Left and Right Sum Differences) |
-| 72 | [Edit Distance](./Edit Distance) | 620 | [Not Boring Movies](./Not Boring Movies) | 2603 | [Collect Coins in a Tree](./Collect Coins in a Tree) |
-| 73 | [Set Matrix Zeroes](./Set Matrix Zeroes) | 643 | [Maximum Average Subarray I](./Maximum Average Subarray I) | 2697 | [Lexicographically Smallest Palindrome](./Lexicographically Smallest Palindrome) |
-| 0074-search-a-2d-matrix | [](./) | 653 | [Two Sum IV - Input is a BST](./Two Sum IV - Input is a BST) | 2760 | [Longest Even Odd Subarray With Threshold](./Longest Even Odd Subarray With Threshold) |
-| 75 | [Sort Colors](./Sort Colors) | 687 | [Longest Univalue Path](./Longest Univalue Path) | 2780 | [Minimum Index of a Valid Split](./Minimum Index of a Valid Split) |
-| 78 | [Subsets](./Subsets) | 693 | [Binary Number with Alternating Bits](./Binary Number with Alternating Bits) | 2798 | [Number of Employees Who Met the Target](./Number of Employees Who Met the Target) |
-| 0079-word-search | [](./) | 696 | [Count Binary Substrings](./Count Binary Substrings) | 2816 | [Double a Number Represented as a Linked List](./Double a Number Represented as a Linked List) |
-| 80 | [Remove Duplicates from Sorted Array II](./Remove Duplicates from Sorted Array II) | 700 | [Search in a Binary Search Tree](./Search in a Binary Search Tree) | 2831 | [Find the Longest Equal Subarray](./Find the Longest Equal Subarray) |
-| 81 | [Search in Rotated Sorted Array II](./Search in Rotated Sorted Array II) | 704 | [Binary Search](./Binary Search) | 2839 | [Check if Strings Can be Made Equal With Operations I](./Check if Strings Can be Made Equal With Operations I) |
-| 82 | [Remove Duplicates from Sorted List II](./Remove Duplicates from Sorted List II) | 705 | [Design HashSet](./Design HashSet) | 2855 | [Minimum Right Shifts to Sort the Array](./Minimum Right Shifts to Sort the Array) |
-| 83 | [Remove Duplicates from Sorted List](./Remove Duplicates from Sorted List) | 706 | [Design HashMap](./Design HashMap) | 2943 | [Maximize Area of Square Hole in Grid](./Maximize Area of Square Hole in Grid) |
-| 85 | [Maximal Rectangle](./Maximal Rectangle) | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](./Best Time to Buy and Sell Stock with Transaction Fee) | 2946 | [Matrix Similarity After Cyclic Shifts](./Matrix Similarity After Cyclic Shifts) |
-| 86 | [Partition List](./Partition List) | 724 | [Find Pivot Index](./Find Pivot Index) | 2957 | [Remove Adjacent Almost-Equal Characters](./Remove Adjacent Almost-Equal Characters) |
-| 88 | [Merge Sorted Array](./Merge Sorted Array) | 725 | [Split Linked List in Parts](./Split Linked List in Parts) | 2958 | [Length of Longest Subarray With at Most K Frequency](./Length of Longest Subarray With at Most K Frequency) |
-| 89 | [Gray Code](./Gray Code) | 728 | [Self Dividing Numbers](./Self Dividing Numbers) | 2975 | [Maximum Square Area by Removing Fences From a Field](./Maximum Square Area by Removing Fences From a Field) |
-| 90 | [Subsets II](./Subsets II) | 735 | [Asteroid Collision](./Asteroid Collision) | 2976 | [Minimum Cost to Convert String I](./Minimum Cost to Convert String I) |
-| 92 | [Reverse Linked List II](./Reverse Linked List II) | 739 | [Daily Temperatures](./Daily Temperatures) | 2977 | [Minimum Cost to Convert String II](./Minimum Cost to Convert String II) |
-| 94 | [Binary Tree Inorder Traversal](./Binary Tree Inorder Traversal) | 740 | [Delete and Earn](./Delete and Earn) | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./Smallest Missing Integer Greater Than Sequential Prefix Sum) |
-| 95 | [Unique Binary Search Trees II](./Unique Binary Search Trees II) | 744 | [Find Smallest Letter Greater Than Target](./Find Smallest Letter Greater Than Target) | 3005 | [Count Elements With Maximum Frequency](./Count Elements With Maximum Frequency) |
-| 96 | [Unique Binary Search Trees](./Unique Binary Search Trees) | 745 | [Prefix and Suffix Search](./Prefix and Suffix Search) | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./Divide an Array Into Subarrays With Minimum Cost I) |
-| 98 | [Validate Binary Search Tree](./Validate Binary Search Tree) | 746 | [Min Cost Climbing Stairs](./Min Cost Climbing Stairs) | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./Divide an Array Into Subarrays With Minimum Cost II) |
-| 99 | [Recover Binary Search Tree](./Recover Binary Search Tree) | 761 | [Special Binary String](./Special Binary String) | 3047 | [Find the Largest Area of Square Inside Two Rectangles](./Find the Largest Area of Square Inside Two Rectangles) |
-| 100 | [Same Tree](./Same Tree) | 762 | [Prime Number of Set Bits in Binary Representation](./Prime Number of Set Bits in Binary Representation) | 3065 | [Minimum Operations to Exceed Threshold Value I](./Minimum Operations to Exceed Threshold Value I) |
-| 101 | [Symmetric Tree](./Symmetric Tree) | 765 | [Couples Holding Hands](./Couples Holding Hands) | 3085 | [Minimum Deletions to Make String K-Special](./Minimum Deletions to Make String K-Special) |
-| 102 | [Binary Tree Level Order Traversal](./Binary Tree Level Order Traversal) | 781 | [Rabbits in Forest](./Rabbits in Forest) | 3090 | [Maximum Length Substring With Two Occurrences](./Maximum Length Substring With Two Occurrences) |
-| 103 | [Binary Tree Zigzag Level Order Traversal](./Binary Tree Zigzag Level Order Traversal) | 790 | [Domino and Tromino Tiling](./Domino and Tromino Tiling) | 3128 | [Right Triangles](./Right Triangles) |
-| 104 | [Maximum Depth of Binary Tree](./Maximum Depth of Binary Tree) | 791 | [Custom Sort String](./Custom Sort String) | 3174 | [Clear Digits](./Clear Digits) |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Construct Binary Tree from Preorder and Inorder Traversal) | 799 | [Champagne Tower](./Champagne Tower) | 3201 | [Find the Maximum Length of Valid Subsequence I](./Find the Maximum Length of Valid Subsequence I) |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Construct Binary Tree from Inorder and Postorder Traversal) | 812 | [Largest Triangle Area](./Largest Triangle Area) | 3217 | [Delete Nodes From Linked List Present in Array](./Delete Nodes From Linked List Present in Array) |
-| 108 | [Convert Sorted Array to Binary Search Tree](./Convert Sorted Array to Binary Search Tree) | 817 | [Linked List Components](./Linked List Components) | 3234 | [Count the Number of Substrings With Dominant Ones](./Count the Number of Substrings With Dominant Ones) |
-| 109 | [Convert Sorted List to Binary Search Tree](./Convert Sorted List to Binary Search Tree) | 834 | [Sum of Distances in Tree](./Sum of Distances in Tree) | 3285 | [Find Indices of Stable Mountains](./Find Indices of Stable Mountains) |
-| 110 | [Balanced Binary Tree](./Balanced Binary Tree) | 835 | [Image Overlap](./Image Overlap) | 3302 | [Find the Lexicographically Smallest Valid Sequence](./Find the Lexicographically Smallest Valid Sequence) |
-| 112 | [Path Sum](./Path Sum) | 836 | [Rectangle Overlap](./Rectangle Overlap) | 3304 | [Find the K-th Character in String Game I](./Find the K-th Character in String Game I) |
-| 115 | [Distinct Subsequences](./Distinct Subsequences) | 841 | [Keys and Rooms](./Keys and Rooms) | 3314 | [Construct the Minimum Bitwise Array I](./Construct the Minimum Bitwise Array I) |
-| 118 | [Pascal's Triangle](./Pascal's Triangle) | 867 | [Transpose Matrix](./Transpose Matrix) | 3315 | [Construct the Minimum Bitwise Array II](./Construct the Minimum Bitwise Array II) |
-| 119 | [Pascal's Triangle II](./Pascal's Triangle II) | 868 | [Binary Gap](./Binary Gap) | 3340 | [Check Balanced String](./Check Balanced String) |
-| 120 | [Triangle](./Triangle) | 901 | [Online Stock Span](./Online Stock Span) | 3345 | [Smallest Divisible Digit Product I](./Smallest Divisible Digit Product I) |
-| 121 | [Best Time to Buy and Sell Stock](./Best Time to Buy and Sell Stock) | 912 | [Sort an Array](./Sort an Array) | 3348 | [Smallest Divisible Digit Product II](./Smallest Divisible Digit Product II) |
-| 122 | [Best Time to Buy and Sell Stock II](./Best Time to Buy and Sell Stock II) | 933 | [Number of Recent Calls](./Number of Recent Calls) | 3379 | [Transformed Array](./Transformed Array) |
-| 124 | [Binary Tree Maximum Path Sum](./Binary Tree Maximum Path Sum) | 940 | [Distinct Subsequences II](./Distinct Subsequences II) | 3408 | [Design Task Manager](./Design Task Manager) |
-| 125 | [Valid Palindrome](./Valid Palindrome) | 960 | [Delete Columns to Make Sorted III](./Delete Columns to Make Sorted III) | 3414 | [Maximum Score of Non-overlapping Intervals](./Maximum Score of Non-overlapping Intervals) |
-| 128 | [Longest Consecutive Sequence](./Longest Consecutive Sequence) | 968 | [Binary Tree Cameras](./Binary Tree Cameras) | 3454 | [Separate Squares II](./Separate Squares II) |
-| 129 | [Sum Root to Leaf Numbers](./Sum Root to Leaf Numbers) | 977 | [Squares of a Sorted Array](./Squares of a Sorted Array) | 3471 | [Find the Largest Almost Missing Integer](./Find the Largest Almost Missing Integer) |
-| 131 | [Palindrome Partitioning](./Palindrome Partitioning) | 981 | [Time Based Key-Value Store](./Time Based Key-Value Store) | 3483 | [Unique 3-Digit Even Numbers](./Unique 3-Digit Even Numbers) |
-| 133 | [Clone Graph](./Clone Graph) | 989 | [Add to Array-Form of Integer](./Add to Array-Form of Integer) | 3507 | [Minimum Pair Removal to Sort Array I](./Minimum Pair Removal to Sort Array I) |
-| 136 | [Single Number](./Single Number) | 994 | [Rotting Oranges](./Rotting Oranges) | 3510 | [Minimum Pair Removal to Sort Array II](./Minimum Pair Removal to Sort Array II) |
-| 138 | [Copy List with Random Pointer](./Copy List with Random Pointer) | 1004 | [Max Consecutive Ones III](./Max Consecutive Ones III) | 3550 | [Smallest Index With Digit Sum Equal to Index](./Smallest Index With Digit Sum Equal to Index) |
-| 139 | [Word Break](./Word Break) | 1022 | [Sum of Root To Leaf Binary Numbers](./Sum of Root To Leaf Binary Numbers) | 3558 | [Number of Ways to Assign Edge Weights I](./Number of Ways to Assign Edge Weights I) |
+| 1 | [Two Sum](./Two Sum) | 239 | [Sliding Window Maximum](./Sliding Window Maximum) | 1572 | [Matrix Diagonal Sum](./Matrix Diagonal Sum) |
+| 2 | [Add Two Numbers](./Add Two Numbers) | 240 | [Search a 2D Matrix II](./Search a 2D Matrix II) | 1573-find-two-non-overlapping-sub-arrays-each-with-target-sum | [](./) |
+| 3 | [Longest Substring Without Repeating Characters](./Longest Substring Without Repeating Characters) | 0242-valid-anagram | [](./) | 1582 | [Special Positions in a Binary Matrix](./Special Positions in a Binary Matrix) |
+| 4 | [Median of Two Sorted Arrays](./Median of Two Sorted Arrays) | 258 | [Add Digits](./Add Digits) | 1590 | [Make Sum Divisible by P](./Make Sum Divisible by P) |
+| 5 | [Longest Palindromic Substring](./Longest Palindromic Substring) | 260 | [Single Number III](./Single Number III) | 1625 | [Lexicographically Smallest String After Applying Operations](./Lexicographically Smallest String After Applying Operations) |
+| 6 | [Zigzag Conversion](./Zigzag Conversion) | 262 | [Trips and Users](./Trips and Users) | 1641 | [Count Sorted Vowel Strings](./Count Sorted Vowel Strings) |
+| 7 | [Reverse Integer](./Reverse Integer) | 268 | [Missing Number](./Missing Number) | 1644-maximum-number-of-non-overlapping-substrings | [](./) |
+| 8 | [String to Integer (atoi)](./String to Integer (atoi)) | 274 | [H-Index](./H-Index) | 1647 | [Minimum Deletions to Make Character Frequencies Unique](./Minimum Deletions to Make Character Frequencies Unique) |
+| 9 | [Palindrome Number](./Palindrome Number) | 283 | [Move Zeroes](./Move Zeroes) | 1653 | [Minimum Deletions to Make String Balanced](./Minimum Deletions to Make String Balanced) |
+| 10 | [Regular Expression Matching](./Regular Expression Matching) | 287 | [Find the Duplicate Number](./Find the Duplicate Number) | 1665 | [Minimum Initial Energy to Finish Tasks](./Minimum Initial Energy to Finish Tasks) |
+| 11 | [Container With Most Water](./Container With Most Water) | 300 | [Longest Increasing Subsequence](./Longest Increasing Subsequence) | 1679 | [Max Number of K-Sum Pairs](./Max Number of K-Sum Pairs) |
+| 12 | [Integer to Roman](./Integer to Roman) | 303 | [Range Sum Query - Immutable](./Range Sum Query - Immutable) | 1680 | [Concatenation of Consecutive Binary Numbers](./Concatenation of Consecutive Binary Numbers) |
+| 13 | [Roman to Integer](./Roman to Integer) | 310 | [Minimum Height Trees](./Minimum Height Trees) | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](./Partitioning Into Minimum Number Of Deci-Binary Numbers) |
+| 14 | [Longest Common Prefix](./Longest Common Prefix) | 315 | [Count of Smaller Numbers After Self](./Count of Smaller Numbers After Self) | 1722 | [Minimize Hamming Distance After Swap Operations](./Minimize Hamming Distance After Swap Operations) |
+| 15 | [3Sum](./3Sum) | 316 | [Remove Duplicate Letters](./Remove Duplicate Letters) | 1725-number-of-sets-of-k-non-overlapping-line-segments | [](./) |
+| 17 | [Letter Combinations of a Phone Number](./Letter Combinations of a Phone Number) | 322 | [Coin Change](./Coin Change) | 1732 | [Find the Highest Altitude](./Find the Highest Altitude) |
+| 18 | [4Sum](./4Sum) | 324 | [Wiggle Sort II](./Wiggle Sort II) | 1758 | [Minimum Changes To Make Alternating Binary String](./Minimum Changes To Make Alternating Binary String) |
+| 19 | [Remove Nth Node From End of List](./Remove Nth Node From End of List) | 326 | [Power of Three](./Power of Three) | 1768 | [Merge Strings Alternately](./Merge Strings Alternately) |
+| 20 | [Valid Parentheses](./Valid Parentheses) | 327 | [Count of Range Sum](./Count of Range Sum) | 1784 | [Check if Binary String Has at Most One Segment of Ones](./Check if Binary String Has at Most One Segment of Ones) |
+| 21 | [Merge Two Sorted Lists](./Merge Two Sorted Lists) | 328 | [Odd Even Linked List](./Odd Even Linked List) | 1833 | [Maximum Ice Cream Bars](./Maximum Ice Cream Bars) |
+| 22 | [Generate Parentheses](./Generate Parentheses) | 331 | [Verify Preorder Serialization of a Binary Tree](./Verify Preorder Serialization of a Binary Tree) | 1871 | [Jump Game VII](./Jump Game VII) |
+| 23 | [Merge k Sorted Lists](./Merge k Sorted Lists) | 332 | [Reconstruct Itinerary](./Reconstruct Itinerary) | 1877 | [Minimize Maximum Pair Sum in Array](./Minimize Maximum Pair Sum in Array) |
+| 24 | [Swap Nodes in Pairs](./Swap Nodes in Pairs) | 334 | [Increasing Triplet Subsequence](./Increasing Triplet Subsequence) | 1895 | [Largest Magic Square](./Largest Magic Square) |
+| 25 | [Reverse Nodes in k-Group](./Reverse Nodes in k-Group) | 0338-counting-bits | [](./) | 1923 | [Longest Common Subpath](./Longest Common Subpath) |
+| 26 | [Remove Duplicates from Sorted Array](./Remove Duplicates from Sorted Array) | 341 | [Flatten Nested List Iterator](./Flatten Nested List Iterator) | 1929 | [Concatenation of Array](./Concatenation of Array) |
+| 27 | [Remove Element](./Remove Element) | 345 | [Reverse Vowels of a String](./Reverse Vowels of a String) | 1969 | [Minimum Non-Zero Product of the Array Elements](./Minimum Non-Zero Product of the Array Elements) |
+| 28 | [Find the Index of the First Occurrence in a String](./Find the Index of the First Occurrence in a String) | 347 | [Top K Frequent Elements](./Top K Frequent Elements) | 1977 | [Number of Ways to Separate Numbers](./Number of Ways to Separate Numbers) |
+| 29 | [Divide Two Integers](./Divide Two Integers) | 367 | [Valid Perfect Square](./Valid Perfect Square) | 1982 | [Find Array Given Subset Sums](./Find Array Given Subset Sums) |
+| 30 | [Substring with Concatenation of All Words](./Substring with Concatenation of All Words) | 372 | [Super Pow](./Super Pow) | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Minimum Difference Between Highest and Lowest of K Scores) |
+| 31 | [Next Permutation](./Next Permutation) | 387 | [First Unique Character in a String](./First Unique Character in a String) | 1996 | [The Number of Weak Characters in the Game](./The Number of Weak Characters in the Game) |
+| 32 | [Longest Valid Parentheses](./Longest Valid Parentheses) | 390 | [Elimination Game](./Elimination Game) | 2019 | [The Score of Students Solving Math Expression](./The Score of Students Solving Math Expression) |
+| 33 | [Search in Rotated Sorted Array](./Search in Rotated Sorted Array) | 392 | [Is Subsequence](./Is Subsequence) | 2029 | [Stone Game IX](./Stone Game IX) |
+| 34 | [Find First and Last Position of Element in Sorted Array](./Find First and Last Position of Element in Sorted Array) | 394 | [Decode String](./Decode String) | 2034 | [Stock Price Fluctuation](./Stock Price Fluctuation) |
+| 35 | [Search Insert Position](./Search Insert Position) | 401 | [Binary Watch](./Binary Watch) | 2049 | [Count Nodes With the Highest Score](./Count Nodes With the Highest Score) |
+| 36 | [Valid Sudoku](./Valid Sudoku) | 404 | [Sum of Left Leaves](./Sum of Left Leaves) | 2069 | [Walking Robot Simulation II](./Walking Robot Simulation II) |
+| 37 | [Sudoku Solver](./Sudoku Solver) | 416 | [Partition Equal Subset Sum](./Partition Equal Subset Sum) | 2091 | [Removing Minimum and Maximum From Array](./Removing Minimum and Maximum From Array) |
+| 38 | [Count and Say](./Count and Say) | 427 | [Construct Quad Tree](./Construct Quad Tree) | 2095 | [Delete the Middle Node of a Linked List](./Delete the Middle Node of a Linked List) |
+| 39 | [Combination Sum](./Combination Sum) | 429 | [N-ary Tree Level Order Traversal](./N-ary Tree Level Order Traversal) | 2097 | [Valid Arrangement of Pairs](./Valid Arrangement of Pairs) |
+| 41 | [First Missing Positive](./First Missing Positive) | 434 | [Number of Segments in a String](./Number of Segments in a String) | 2130 | [Maximum Twin Sum of a Linked List](./Maximum Twin Sum of a Linked List) |
+| 42 | [Trapping Rain Water](./Trapping Rain Water) | 435 | [Non-overlapping Intervals](./Non-overlapping Intervals) | 2133 | [Check if Every Row and Column Contains All Numbers](./Check if Every Row and Column Contains All Numbers) |
+| 43 | [Multiply Strings](./Multiply Strings) | 437 | [Path Sum III](./Path Sum III) | 2140 | [Solving Questions With Brainpower](./Solving Questions With Brainpower) |
+| 44 | [Wildcard Matching](./Wildcard Matching) | 438 | [Find All Anagrams in a String](./Find All Anagrams in a String) | 2144 | [Minimum Cost of Buying Candies With Discount](./Minimum Cost of Buying Candies With Discount) |
+| 45 | [Jump Game II](./Jump Game II) | 443 | [String Compression](./String Compression) | 2149 | [Rearrange Array Elements by Sign](./Rearrange Array Elements by Sign) |
+| 46 | [Permutations](./Permutations) | 450 | [Delete Node in a BST](./Delete Node in a BST) | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](./Minimum Sum of Four Digit Number After Splitting Digits) |
+| 47 | [Permutations II](./Permutations II) | 452 | [Minimum Number of Arrows to Burst Balloons](./Minimum Number of Arrows to Burst Balloons) | 2161 | [Partition Array According to Given Pivot](./Partition Array According to Given Pivot) |
+| 48 | [Rotate Image](./Rotate Image) | 485 | [Max Consecutive Ones](./Max Consecutive Ones) | 2196 | [Create Binary Tree From Descriptions](./Create Binary Tree From Descriptions) |
+| 49 | [Group Anagrams](./Group Anagrams) | 486 | [Predict the Winner](./Predict the Winner) | 2208 | [Minimum Operations to Halve Array Sum](./Minimum Operations to Halve Array Sum) |
+| 50 | [Pow(x, n)](./Pow(x, n)) | 0494-target-sum | [](./) | 2213 | [Longest Substring of One Repeating Character](./Longest Substring of One Repeating Character) |
+| 51 | [N-Queens](./N-Queens) | 496 | [Next Greater Element I](./Next Greater Element I) | 2215 | [Find the Difference of Two Arrays](./Find the Difference of Two Arrays) |
+| 52 | [N-Queens II](./N-Queens II) | 503 | [Next Greater Element II](./Next Greater Element II) | 2223 | [Sum of Scores of Built Strings](./Sum of Scores of Built Strings) |
+| 53 | [Maximum Subarray](./Maximum Subarray) | 509 | [Fibonacci Number](./Fibonacci Number) | 2225 | [Find Players With Zero or One Losses](./Find Players With Zero or One Losses) |
+| 54 | [Spiral Matrix](./Spiral Matrix) | 543 | [Diameter of Binary Tree](./Diameter of Binary Tree) | 2265 | [Count Nodes Equal to Average of Subtree](./Count Nodes Equal to Average of Subtree) |
+| 55 | [Jump Game](./Jump Game) | 547 | [Number of Provinces](./Number of Provinces) | 2315 | [Count Asterisks](./Count Asterisks) |
+| 56 | [Merge Intervals](./Merge Intervals) | 556 | [Next Greater Element III](./Next Greater Element III) | 2336 | [Smallest Number in Infinite Set](./Smallest Number in Infinite Set) |
+| 57 | [Insert Interval](./Insert Interval) | 560 | [Subarray Sum Equals K](./Subarray Sum Equals K) | 2352 | [Equal Row and Column Pairs](./Equal Row and Column Pairs) |
+| 58 | [Length of Last Word](./Length of Last Word) | 561 | [Array Partition](./Array Partition) | 2404 | [Most Frequent Even Element](./Most Frequent Even Element) |
+| 59 | [Spiral Matrix II](./Spiral Matrix II) | 567 | [Permutation in String](./Permutation in String) | 2446 | [Determine if Two Events Have Conflict](./Determine if Two Events Have Conflict) |
+| 60 | [Permutation Sequence](./Permutation Sequence) | 584 | [Find Customer Referee](./Find Customer Referee) | 2457 | [Minimum Addition to Make Integer Beautiful](./Minimum Addition to Make Integer Beautiful) |
+| 61 | [Rotate List](./Rotate List) | 585 | [Investments in 2016](./Investments in 2016) | 2461 | [Maximum Sum of Distinct Subarrays With Length K](./Maximum Sum of Distinct Subarrays With Length K) |
+| 62 | [Unique Paths](./Unique Paths) | 586 | [Customer Placing the Largest Number of Orders](./Customer Placing the Largest Number of Orders) | 2498 | [Frog Jump II](./Frog Jump II) |
+| 63 | [Unique Paths II](./Unique Paths II) | 589 | [N-ary Tree Preorder Traversal](./N-ary Tree Preorder Traversal) | 2512 | [Reward Top K Students](./Reward Top K Students) |
+| 64 | [Minimum Path Sum](./Minimum Path Sum) | 590 | [N-ary Tree Postorder Traversal](./N-ary Tree Postorder Traversal) | 2513 | [Minimize the Maximum of Two Arrays](./Minimize the Maximum of Two Arrays) |
+| 67 | [Add Binary](./Add Binary) | 596 | [Classes With at Least 5 Students](./Classes With at Least 5 Students) | 2544 | [Alternating Digit Sum](./Alternating Digit Sum) |
+| 69 | [Sqrt(x)](./Sqrt(x)) | 601 | [Human Traffic of Stadium](./Human Traffic of Stadium) | 2550 | [Count Collisions of Monkeys on a Polygon](./Count Collisions of Monkeys on a Polygon) |
+| 70 | [Climbing Stairs](./Climbing Stairs) | 605 | [Can Place Flowers](./Can Place Flowers) | 2551 | [Put Marbles in Bags](./Put Marbles in Bags) |
+| 71 | [Simplify Path](./Simplify Path) | 608 | [Tree Node](./Tree Node) | 2553 | [Separate the Digits in an Array](./Separate the Digits in an Array) |
+| 72 | [Edit Distance](./Edit Distance) | 611 | [Valid Triangle Number](./Valid Triangle Number) | 2574 | [Left and Right Sum Differences](./Left and Right Sum Differences) |
+| 73 | [Set Matrix Zeroes](./Set Matrix Zeroes) | 620 | [Not Boring Movies](./Not Boring Movies) | 2603 | [Collect Coins in a Tree](./Collect Coins in a Tree) |
+| 0074-search-a-2d-matrix | [](./) | 643 | [Maximum Average Subarray I](./Maximum Average Subarray I) | 2697 | [Lexicographically Smallest Palindrome](./Lexicographically Smallest Palindrome) |
+| 75 | [Sort Colors](./Sort Colors) | 653 | [Two Sum IV - Input is a BST](./Two Sum IV - Input is a BST) | 2760 | [Longest Even Odd Subarray With Threshold](./Longest Even Odd Subarray With Threshold) |
+| 78 | [Subsets](./Subsets) | 687 | [Longest Univalue Path](./Longest Univalue Path) | 2780 | [Minimum Index of a Valid Split](./Minimum Index of a Valid Split) |
+| 0079-word-search | [](./) | 693 | [Binary Number with Alternating Bits](./Binary Number with Alternating Bits) | 2798 | [Number of Employees Who Met the Target](./Number of Employees Who Met the Target) |
+| 80 | [Remove Duplicates from Sorted Array II](./Remove Duplicates from Sorted Array II) | 696 | [Count Binary Substrings](./Count Binary Substrings) | 2816 | [Double a Number Represented as a Linked List](./Double a Number Represented as a Linked List) |
+| 81 | [Search in Rotated Sorted Array II](./Search in Rotated Sorted Array II) | 700 | [Search in a Binary Search Tree](./Search in a Binary Search Tree) | 2831 | [Find the Longest Equal Subarray](./Find the Longest Equal Subarray) |
+| 82 | [Remove Duplicates from Sorted List II](./Remove Duplicates from Sorted List II) | 704 | [Binary Search](./Binary Search) | 2839 | [Check if Strings Can be Made Equal With Operations I](./Check if Strings Can be Made Equal With Operations I) |
+| 83 | [Remove Duplicates from Sorted List](./Remove Duplicates from Sorted List) | 705 | [Design HashSet](./Design HashSet) | 2855 | [Minimum Right Shifts to Sort the Array](./Minimum Right Shifts to Sort the Array) |
+| 85 | [Maximal Rectangle](./Maximal Rectangle) | 706 | [Design HashMap](./Design HashMap) | 2943 | [Maximize Area of Square Hole in Grid](./Maximize Area of Square Hole in Grid) |
+| 86 | [Partition List](./Partition List) | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](./Best Time to Buy and Sell Stock with Transaction Fee) | 2946 | [Matrix Similarity After Cyclic Shifts](./Matrix Similarity After Cyclic Shifts) |
+| 88 | [Merge Sorted Array](./Merge Sorted Array) | 724 | [Find Pivot Index](./Find Pivot Index) | 2957 | [Remove Adjacent Almost-Equal Characters](./Remove Adjacent Almost-Equal Characters) |
+| 89 | [Gray Code](./Gray Code) | 725 | [Split Linked List in Parts](./Split Linked List in Parts) | 2958 | [Length of Longest Subarray With at Most K Frequency](./Length of Longest Subarray With at Most K Frequency) |
+| 90 | [Subsets II](./Subsets II) | 728 | [Self Dividing Numbers](./Self Dividing Numbers) | 2975 | [Maximum Square Area by Removing Fences From a Field](./Maximum Square Area by Removing Fences From a Field) |
+| 92 | [Reverse Linked List II](./Reverse Linked List II) | 735 | [Asteroid Collision](./Asteroid Collision) | 2976 | [Minimum Cost to Convert String I](./Minimum Cost to Convert String I) |
+| 94 | [Binary Tree Inorder Traversal](./Binary Tree Inorder Traversal) | 739 | [Daily Temperatures](./Daily Temperatures) | 2977 | [Minimum Cost to Convert String II](./Minimum Cost to Convert String II) |
+| 95 | [Unique Binary Search Trees II](./Unique Binary Search Trees II) | 740 | [Delete and Earn](./Delete and Earn) | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./Smallest Missing Integer Greater Than Sequential Prefix Sum) |
+| 96 | [Unique Binary Search Trees](./Unique Binary Search Trees) | 744 | [Find Smallest Letter Greater Than Target](./Find Smallest Letter Greater Than Target) | 3005 | [Count Elements With Maximum Frequency](./Count Elements With Maximum Frequency) |
+| 98 | [Validate Binary Search Tree](./Validate Binary Search Tree) | 745 | [Prefix and Suffix Search](./Prefix and Suffix Search) | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](./Divide an Array Into Subarrays With Minimum Cost I) |
+| 99 | [Recover Binary Search Tree](./Recover Binary Search Tree) | 746 | [Min Cost Climbing Stairs](./Min Cost Climbing Stairs) | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](./Divide an Array Into Subarrays With Minimum Cost II) |
+| 100 | [Same Tree](./Same Tree) | 761 | [Special Binary String](./Special Binary String) | 3047 | [Find the Largest Area of Square Inside Two Rectangles](./Find the Largest Area of Square Inside Two Rectangles) |
+| 101 | [Symmetric Tree](./Symmetric Tree) | 762 | [Prime Number of Set Bits in Binary Representation](./Prime Number of Set Bits in Binary Representation) | 3065 | [Minimum Operations to Exceed Threshold Value I](./Minimum Operations to Exceed Threshold Value I) |
+| 102 | [Binary Tree Level Order Traversal](./Binary Tree Level Order Traversal) | 765 | [Couples Holding Hands](./Couples Holding Hands) | 3085 | [Minimum Deletions to Make String K-Special](./Minimum Deletions to Make String K-Special) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](./Binary Tree Zigzag Level Order Traversal) | 781 | [Rabbits in Forest](./Rabbits in Forest) | 3090 | [Maximum Length Substring With Two Occurrences](./Maximum Length Substring With Two Occurrences) |
+| 104 | [Maximum Depth of Binary Tree](./Maximum Depth of Binary Tree) | 790 | [Domino and Tromino Tiling](./Domino and Tromino Tiling) | 3128 | [Right Triangles](./Right Triangles) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Construct Binary Tree from Preorder and Inorder Traversal) | 791 | [Custom Sort String](./Custom Sort String) | 3174 | [Clear Digits](./Clear Digits) |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Construct Binary Tree from Inorder and Postorder Traversal) | 799 | [Champagne Tower](./Champagne Tower) | 3201 | [Find the Maximum Length of Valid Subsequence I](./Find the Maximum Length of Valid Subsequence I) |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Convert Sorted Array to Binary Search Tree) | 812 | [Largest Triangle Area](./Largest Triangle Area) | 3217 | [Delete Nodes From Linked List Present in Array](./Delete Nodes From Linked List Present in Array) |
+| 109 | [Convert Sorted List to Binary Search Tree](./Convert Sorted List to Binary Search Tree) | 817 | [Linked List Components](./Linked List Components) | 3234 | [Count the Number of Substrings With Dominant Ones](./Count the Number of Substrings With Dominant Ones) |
+| 110 | [Balanced Binary Tree](./Balanced Binary Tree) | 834 | [Sum of Distances in Tree](./Sum of Distances in Tree) | 3285 | [Find Indices of Stable Mountains](./Find Indices of Stable Mountains) |
+| 112 | [Path Sum](./Path Sum) | 835 | [Image Overlap](./Image Overlap) | 3302 | [Find the Lexicographically Smallest Valid Sequence](./Find the Lexicographically Smallest Valid Sequence) |
+| 115 | [Distinct Subsequences](./Distinct Subsequences) | 836 | [Rectangle Overlap](./Rectangle Overlap) | 3304 | [Find the K-th Character in String Game I](./Find the K-th Character in String Game I) |
+| 118 | [Pascal's Triangle](./Pascal's Triangle) | 841 | [Keys and Rooms](./Keys and Rooms) | 3314 | [Construct the Minimum Bitwise Array I](./Construct the Minimum Bitwise Array I) |
+| 119 | [Pascal's Triangle II](./Pascal's Triangle II) | 867 | [Transpose Matrix](./Transpose Matrix) | 3315 | [Construct the Minimum Bitwise Array II](./Construct the Minimum Bitwise Array II) |
+| 120 | [Triangle](./Triangle) | 868 | [Binary Gap](./Binary Gap) | 3340 | [Check Balanced String](./Check Balanced String) |
+| 121 | [Best Time to Buy and Sell Stock](./Best Time to Buy and Sell Stock) | 901 | [Online Stock Span](./Online Stock Span) | 3345 | [Smallest Divisible Digit Product I](./Smallest Divisible Digit Product I) |
+| 122 | [Best Time to Buy and Sell Stock II](./Best Time to Buy and Sell Stock II) | 912 | [Sort an Array](./Sort an Array) | 3348 | [Smallest Divisible Digit Product II](./Smallest Divisible Digit Product II) |
+| 124 | [Binary Tree Maximum Path Sum](./Binary Tree Maximum Path Sum) | 933 | [Number of Recent Calls](./Number of Recent Calls) | 3379 | [Transformed Array](./Transformed Array) |
+| 125 | [Valid Palindrome](./Valid Palindrome) | 940 | [Distinct Subsequences II](./Distinct Subsequences II) | 3408 | [Design Task Manager](./Design Task Manager) |
+| 128 | [Longest Consecutive Sequence](./Longest Consecutive Sequence) | 960 | [Delete Columns to Make Sorted III](./Delete Columns to Make Sorted III) | 3414 | [Maximum Score of Non-overlapping Intervals](./Maximum Score of Non-overlapping Intervals) |
+| 129 | [Sum Root to Leaf Numbers](./Sum Root to Leaf Numbers) | 968 | [Binary Tree Cameras](./Binary Tree Cameras) | 3454 | [Separate Squares II](./Separate Squares II) |
+| 131 | [Palindrome Partitioning](./Palindrome Partitioning) | 977 | [Squares of a Sorted Array](./Squares of a Sorted Array) | 3471 | [Find the Largest Almost Missing Integer](./Find the Largest Almost Missing Integer) |
+| 133 | [Clone Graph](./Clone Graph) | 981 | [Time Based Key-Value Store](./Time Based Key-Value Store) | 3483 | [Unique 3-Digit Even Numbers](./Unique 3-Digit Even Numbers) |
+| 136 | [Single Number](./Single Number) | 989 | [Add to Array-Form of Integer](./Add to Array-Form of Integer) | 3507 | [Minimum Pair Removal to Sort Array I](./Minimum Pair Removal to Sort Array I) |
+| 138 | [Copy List with Random Pointer](./Copy List with Random Pointer) | 994 | [Rotting Oranges](./Rotting Oranges) | 3510 | [Minimum Pair Removal to Sort Array II](./Minimum Pair Removal to Sort Array II) |
+| 139 | [Word Break](./Word Break) | 1004 | [Max Consecutive Ones III](./Max Consecutive Ones III) | 3550 | [Smallest Index With Digit Sum Equal to Index](./Smallest Index With Digit Sum Equal to Index) |
+| 0139-word-break | [](./) | 1022 | [Sum of Root To Leaf Binary Numbers](./Sum of Root To Leaf Binary Numbers) | 3558 | [Number of Ways to Assign Edge Weights I](./Number of Ways to Assign Edge Weights I) |
 | 141 | [Linked List Cycle](./Linked List Cycle) | 1044 | [Longest Duplicate Substring](./Longest Duplicate Substring) | 3566 | [Partition Array into Two Equal Product Subsets](./Partition Array into Two Equal Product Subsets) |
 | 142 | [Linked List Cycle II](./Linked List Cycle II) | 1045 | [Customers Who Bought All Products](./Customers Who Bought All Products) | 3568 | [Minimum Moves to Clean the Classroom](./Minimum Moves to Clean the Classroom) |
 | 143 | [Reorder List](./Reorder List) | 1051 | [Height Checker](./Height Checker) | 3622 | [Check Divisibility by Digit Sum and Product](./Check Divisibility by Digit Sum and Product) |
@@ -169,4 +170,3 @@
 | 234 | [Palindrome Linked List](./Palindrome Linked List) | 1536 | [Minimum Swaps to Arrange a Binary Grid](./Minimum Swaps to Arrange a Binary Grid) | 3946 | [Maximum Number of Items From Sale I](./Maximum Number of Items From Sale I) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](./Lowest Common Ancestor of a Binary Tree) | 1545 | [Find Kth Bit in Nth Binary String](./Find Kth Bit in Nth Binary String) | 3947 | [Maximum Number of Items From Sale II](./Maximum Number of Items From Sale II) |
 | 238 | [Product of Array Except Self](./Product of Array Except Self) | 1563 | [Stone Game V](./Stone Game V) | 3948 | [Lexicographically Maximum MEX Array](./Lexicographically Maximum MEX Array) |
-| 239 | [Sliding Window Maximum](./Sliding Window Maximum) | 1572 | [Matrix Diagonal Sum](./Matrix Diagonal Sum) | | |
